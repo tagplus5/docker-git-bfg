@@ -1,6 +1,3 @@
-- ubuntu 16.04
-- BFG Repo-Cleaner
-
 [bfg-repo-cleaner manual](https://rtyley.github.io/bfg-repo-cleaner)
 
 #### Usage
