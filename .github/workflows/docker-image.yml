@@ -1,9 +1,9 @@
-name: Docker Image CI 1
+name: Docker Image CI
 
 on:
   push:
     branches:
-      - 'main'
+      - 'master'
 
 jobs:
   docker:
